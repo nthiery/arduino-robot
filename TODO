@@ -13,7 +13,7 @@ Liste des tâches:
   - Faire clignoter une led
   - Lire une valeur avec le capteur de lumière
   - Faire tourner les roues
-* Reconstruire le robot pas à pas en prenant des notes
+* Reconstruire le robot pas à pas en prenant des notes et en s'assurant de la stabilité
 * Eventuellement, essayer de nouveaux programmes plus personnels avec Arduino-Robot
 * A tout moment, noter les éventuelles idées pour améliorer arduino-robot et les tester
 * Créer des labyrinthes plus compliqués pour un défi plus intéressant
