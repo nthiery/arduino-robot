@@ -1,7 +1,15 @@
+
+L'objectif final est de produire une fiche permettant aux participants de 
+
 Liste des tâches:
 
 * Dessiner le circuit électronique du robot actuel
 * Prendre des photos du robot pour le reconstruire
 * Démonter le robot en faisant atention à chaque étape
 * Vérifier que l'on a toutes les pièces
-* Remonter le robots suivant les informations en notre possession
+* Apprendre à utiliser Arduino avec des circuits simples:
+  - Faire clignoter une led
+  - Lire une valeur avec le capteur de lumière
+  - Faire tourner les roues
+* Reconstruire le robot pas à pas en prenant des notes
+* 
