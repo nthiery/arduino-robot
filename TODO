@@ -1,6 +1,6 @@
-L'objectif final est de produire une fiche permettant aux participants de reproduire arduino-robot. 
+L'objectif final est de produire un tutoriel permettant aux participants de reproduire pas par pas un robot basé sur arduino + légo
 
-Liste des tâches:
+Liste des tâches intermédiaires:
 
 * Dessiner le circuit électronique du robot actuel
 * Prendre des photos du robot pour le reconstruire
@@ -18,3 +18,10 @@ Liste des tâches:
 * A tout moment, noter les éventuelles idées pour améliorer arduino-robot et les tester
 * Créer des labyrinthes plus compliqués pour un défi plus intéressant
 * A chaque test, noter les difficultés rencontrées par le robot ainsi que les circonstances de l'essai
+* Repérer les resources pédagogiques sur arduino disponibles en français.
+* Quelques liens:
+   - arduino.cc
+   - http://www.adafruit.com/products/1438
+* Exemples de tutoriels:
+   - https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino
+   - https://learn.adafruit.com/wifi-controlled-mobile-robot
