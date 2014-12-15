@@ -1,4 +1,3 @@
-
 L'objectif final est de produire une fiche permettant aux participants de reproduire arduino-robot. 
 
 Liste des tâches:
@@ -15,4 +14,4 @@ Liste des tâches:
   - Lire une valeur avec le capteur de lumière
   - Faire tourner les roues
 * Reconstruire le robot pas à pas en prenant des notes
-* 
+* Eventuellement, essayer de nouveaux programmes plus personnels avec Arduino-Robot
