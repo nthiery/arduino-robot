@@ -6,6 +6,7 @@ Liste des tâches:
 * Dessiner le circuit électronique du robot actuel
 * Prendre des photos du robot pour le reconstruire
 * Démonter le robot en faisant atention à chaque étape
+  - Penser à prendre des photos à chaque étape
 * Vérifier que l'on a toutes les pièces
 * Apprendre à utiliser Arduino avec des circuits simples:
   - Faire clignoter une led
